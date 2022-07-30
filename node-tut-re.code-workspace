@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "AlogUniversity",
+			"path": "../Desktop/DesktopU/vs/AlogUniversity"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp",
+			"span": "cpp",
+			"ostream": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"stacktrace": "cpp",
+			"regex": "cpp",
+			"valarray": "cpp"
+		}
+	}
+}
